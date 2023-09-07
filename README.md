@@ -3,7 +3,7 @@
 
 ###
 
-<h1 align="center">Hi 👋! I'm is Erfan Ezizi, a Full-Stack Developer 👨‍💻 from Sweden</h1>
+<h1 align="center">Hi 👋! I am Erfan Ezizi, a Full-Stack Developer 👨‍💻 from Sweden</h1>
 
 ###
 
