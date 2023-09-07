@@ -1,10 +1,20 @@
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 # Erfan Ezizi - Full-Stack Developer 👨‍💻
+###
+<div style="display: flex;justify-content: ;align-items: baseline;">
+  
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErfanEzizi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ErfanEzizi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-📞 Contact: (+46) 0760266384  
+</div>
+
 📧 Email: erfanezizi@protonmail.com  
-🌐 LinkedIn: [Erfan Ezizi](https://www.linkedin.com/in/erfan-ezizi-4551a71a8/)  
 🚀 GitHub: [ErfanEzizi](https://github.com/ErfanEzizi)
 
 ## Skills 🛠️
@@ -48,6 +58,9 @@
 </div>
 
 ## Languages 🌍
+###
+
+<img align="right" height="150" src="https://media.tenor.com/yI52A-HSm9UAAAAC/mrrobot-ramimalek.gif"  />
 
 🇺🇸 English - Fluent  
 🇨🇳 Chinese (Mandarin) - Fluent  
@@ -76,14 +89,3 @@ Feel free to reach out for collaboration or inquiries! 📫🤝
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/yI52A-HSm9UAAAAC/mrrobot-ramimalek.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
