@@ -125,6 +125,13 @@ Xinjiang University, China — 2017
   Left the country after second year; continued learning independently
 ---
 
+CS50, Harvard University Online - Nov 2020
+
+---
+Google IT Support Professional Certificate Online - Feb 2024
+
+---
+
 ## Additional Experience / Interests
 
 - Technical writing or documentation
