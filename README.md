@@ -29,14 +29,13 @@ Software Engineer with experience building scalable SaaS platforms using modern 
 - Socket.IO (real-time communication)
 - Prisma ORM, Mongoose
 - PostgreSQL, MongoDB
-- JWT-based authentication
 - Microservices and modular monolith architectures
 
 ### Frontend
 - React
 - TanStack React Query
 - Axios
-- SCSS / CSS architecture
+- SCSS / CSS
 - Component-driven UI development
 - Animation-heavy interfaces and complex user flows
 
