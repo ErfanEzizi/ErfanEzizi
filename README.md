@@ -131,7 +131,7 @@ Google IT Support Professional Certificate Online - Feb 2024
 
 - Technical writing or documentation
 - Research or experimentation
-- Community involvement (Board member of NGO Unga Uigurer)
+- Community involvement (Board member of NPO Unga Uigurer)
 - Gaming
 - Handcrafting
 
